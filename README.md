@@ -1,6 +1,6 @@
 # Everforest color theme configuration for Tmux
 
-Theme with 'retro groove' flavor for [Tmux][github-tmux], based on Pavel Pertsev's [gruvbox colorscheme][github-grovbox] and inspired by work of [Gordon Chiam](https://gist.github.com/gchiam/4606522f513cc64b79ce). Subthemes switching inspired by [tmux-color-solarized][tmux-color-solarized].
+Theme with 'retro groove' flavor for [Tmux][github-tmux], based on Pavel Pertsev's [everforest colorscheme][github-everforest]
 
 > Screenshots made from macOS builtin terminal with xterm-256color and [Hack font][github-hack].
 
@@ -32,9 +32,9 @@ Hit `prefix + I` to fetch the plugin and source it. Your Tmux should be updated 
 
 ## License
 
-GPLv3 - Maciej Sypień
+GPLv3 - Josh Pevehouse
 
 [github-tmux]: https://github.com/tmux/tmux
-[github-grovbox]: https://github.com/morhetz/gruvbox
+[github-everforest]: https://github.com/sainnhe/everforest
 [github-hack]: https://github.com/chrissimpkins/Hack
 [tmux-color-solarized]: https://github.com/seebi/tmux-colors-solarized
